@@ -1,0 +1,14 @@
+target/
+boot/
+lib_managed/
+src_managed/
+project/plugins/project/
+
+## generic files to ignore
+*.lock
+*.DS_Store
+*.swp
+*.out
+.vscode
+.metals
+.idea
